@@ -1,11 +1,17 @@
 ## xianyu-idlefish-spider-crawler-sender
 
 
-## 闲鱼自动抓取/筛选/发送系统，xianyu spider crawler blablabla
+## 闲鱼自动抓取/筛选/发送系统， idlefish / xianyu spider crawler sender program blablabla
 
 #### 联系QQ
 
 ![](demo/demo11.png)
+
+
+#### v 1.0.4更次更新
+为抓取程序重构代码，并升级UI
+
+![](demo/demo12.png)
 
 
 #### v 1.0.4更新抓取首页和数据库页面
