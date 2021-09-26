@@ -3,7 +3,7 @@
 
 ## 闲鱼自动抓取/筛选/发送系统， idlefish / xianyu spider crawler sender program blablabla
 
-#### 联系QQ
+#### 联系QQ （用QQ扫二维码，或者添加QQ号）
 
 ![](demo/demo11.png)
 
