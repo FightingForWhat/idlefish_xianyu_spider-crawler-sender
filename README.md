@@ -4,6 +4,13 @@
 ## 闲鱼自动抓取/筛选/发送系统， idlefish / xianyu spider crawler sender program blablabla
 
 #### 联系QQ （用QQ扫二维码，或者添加QQ号）
+####  - 📫 联系本人 ...
+
+* 购买软件、收购项目，可联系本人邮箱或添加QQ
+
+* Email: 26010455@qq.com
+
+* QQ: 26010455（添加请注明来意 否则不予通过）
 
 ![](demo/demo11.png)
 
