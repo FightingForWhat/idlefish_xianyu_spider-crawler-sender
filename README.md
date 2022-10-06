@@ -11,7 +11,7 @@
 
 * 扫码加好友 QQ/微信（推荐QQ）
 
-![](demo/qq02_360.jpg) ![](demo/wechat03——360.jpg) 
+![](demo/qq02_360.jpg) ![](demo/wechat03_360.jpg) 
 
 
 #### 1002 v18 demo来了
