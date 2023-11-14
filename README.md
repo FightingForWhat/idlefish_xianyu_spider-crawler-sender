@@ -26,7 +26,9 @@
 7. [AI STOCK A股量化交易工具 测试](https://github.com/FightingForWhat/AI_STOCK)
 
 
--------------
+---
+
+#### 项目更新记录
 
 #### 20230915
 闲鱼自动化软件——筛选/发送系统 V22已经测试完毕
