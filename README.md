@@ -25,6 +25,8 @@
 
 7. [AI STOCK A股量化交易工具 测试](https://github.com/FightingForWhat/AI_STOCK)
 
+8. [探寻闲鱼SellerId加解密算法](https://github.com/FightingForWhat/IdleFish_SellerId)
+
 
 ---
 
