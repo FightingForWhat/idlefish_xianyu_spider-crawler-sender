@@ -26,9 +26,10 @@
 7. [AI STOCK A股量化交易工具 测试](https://github.com/FightingForWhat/AI_STOCK)
 
 8. [探寻闲鱼SellerId加解密算法](https://github.com/FightingForWhat/IdleFish_SellerId)
+9. [aweme_tiktok_comments 抖音评论抓取](https://github.com/FightingForWhat/aweme_tiktok_comments)
+10. [探寻闲鱼x-sign/x-mini-wua加解密算法 Unidbg/idleFish/taobao/damai...](https://github.com/FightingForWhat/unidbg_idle_fish)
 
-
----
+------
 
 #### 项目更新记录
 
